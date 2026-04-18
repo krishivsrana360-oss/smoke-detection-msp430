@@ -47,10 +47,8 @@ Smoke Particles → Optical Sensor —[I²C @ 100kHz]→ MSP430FRxxxx
 
 ## Frame Protocol
 
-**Request (4 bytes):** SOF 0xAA | CMD 0x01 | Frame Count | CRC16
-
-**Response (21 bytes):** SOF | Frame Count | Raw ADC Blue+IR | 
-PTR Blue+IR | Obscuration Blue+IR | Alarm Status | CRC16
+**Request Frame
+**Response Frame
 
 ## Test Results
 
