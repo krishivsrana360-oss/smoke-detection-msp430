@@ -47,8 +47,8 @@ Smoke Particles → Optical Sensor —[I²C @ 100kHz]→ MSP430FRxxxx
 
 ## Frame Protocol
 
-**Request Frame
-**Response Frame
+**Request Frame**
+**Response Frame**
 
 ## Test Results
 
