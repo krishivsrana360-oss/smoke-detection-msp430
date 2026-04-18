@@ -73,6 +73,3 @@ PTR Blue+IR | Obscuration Blue+IR | Alarm Status | CRC16
 ## Built At
 
 Industrial Training — Teq Diligent, Ahmedabad  
-Guide: Ms. Shanti, Sr. Firmware Engineer, Diligent  
-Academic Guide: Prof. Pallavi Darji, DDU Nadiad  
-B.Tech EC Semester VIII — April 2026
